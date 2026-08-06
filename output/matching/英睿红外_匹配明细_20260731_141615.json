@@ -1,0 +1,36 @@
+{
+  "enterprise": {
+    "name": "英睿红外",
+    "industry": "光电子",
+    "size": "中型",
+    "registered_capital": null,
+    "revenue": "5000",
+    "employee_count": null,
+    "rnd_ratio": "30%",
+    "patent_count": 12,
+    "needs": [],
+    "additional_info": {}
+  },
+  "generated_at": "2026-07-31T14:16:15.857988",
+  "ranked": [
+    {
+      "rank": 1,
+      "policy_title": "3eb40fcd",
+      "match_score": 0.0,
+      "priority_level": "",
+      "priority_reason": ""
+    }
+  ],
+  "matches": [
+    {
+      "policy_title": "3eb40fcd",
+      "policy_id": "",
+      "match_score": 0.0,
+      "priority_level": "",
+      "priority_reason": "",
+      "matched_criteria": [],
+      "unmatched_criteria": [],
+      "summary": "匹配分析出错: 模型 tongyi 调用失败: 缺少 DASHSCOPE_API_KEY 环境变量。请在 .env 中配置后重启，或选择其他已配置密钥的模型。"
+    }
+  ]
+}

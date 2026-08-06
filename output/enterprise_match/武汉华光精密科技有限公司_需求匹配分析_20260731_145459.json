@@ -1,0 +1,20 @@
+{
+  "pain_points": "研发投入高、融资成本高，缺少知识产权布局与成果转化渠道；申报高新技术企业缺乏辅导，人工审核标准不统一导致材料返工，项目申报错过时间窗口。",
+  "dimensions": {
+    "name": "武汉华光精密科技有限公司",
+    "industry": "光电",
+    "size": "中小型",
+    "revenue": "3200万元",
+    "registered_capital": "1000万元",
+    "employees": "86人",
+    "rnd_ratio": "4.2%",
+    "patents": "12项",
+    "years": "5年",
+    "region": "武汉光谷"
+  },
+  "matched_policies": [
+    "光谷中小企业技术创新专项资金申报指南"
+  ],
+  "model": "tongyi",
+  "generated_at": "2026-07-31T14:54:59.957059"
+}

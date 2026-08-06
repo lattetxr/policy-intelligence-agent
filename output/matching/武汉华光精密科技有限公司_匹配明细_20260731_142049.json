@@ -1,0 +1,46 @@
+{
+  "enterprise": {
+    "name": "武汉华光精密科技有限公司",
+    "industry": "光电",
+    "size": "小型",
+    "registered_capital": null,
+    "revenue": "3200万元",
+    "employee_count": null,
+    "rnd_ratio": "4.2%",
+    "patent_count": 12,
+    "needs": [
+      "研发费用补贴",
+      "高新技术企业培育"
+    ],
+    "additional_info": {}
+  },
+  "generated_at": "2026-07-31T14:20:49.398948",
+  "ranked": [
+    {
+      "rank": 1,
+      "policy_title": "3eb40fcd",
+      "match_score": 20.0,
+      "priority_level": "低",
+      "priority_reason": "该政策缺乏具体的申报门槛、适用主体、量化阈值、约束条款以及资助范围和补贴标准等信息，使得难以评估其对企业实际帮助的程度。鉴于此不确定性，建议优先考虑其他更明确的扶持政策。"
+    }
+  ],
+  "matches": [
+    {
+      "policy_title": "3eb40fcd",
+      "policy_id": "3eb40fcd62de99db052e841893cf33e0",
+      "match_score": 20.0,
+      "priority_level": "低",
+      "priority_reason": "该政策缺乏具体的申报门槛、适用主体、量化阈值、约束条款以及资助范围和补贴标准等信息，使得难以评估其对企业实际帮助的程度。鉴于此不确定性，建议优先考虑其他更明确的扶持政策。",
+      "matched_criteria": [],
+      "unmatched_criteria": [
+        "无明确门槛",
+        "无明确限制",
+        "无量化阈值",
+        "无约束条款",
+        "未说明资助范围",
+        "无明确补贴标准"
+      ],
+      "summary": "由于提供的政策信息非常有限且不具体，武汉华光精密科技有限公司与之匹配度较低。考虑到企业当前的需求是研发费用补贴及高新技术企业培育支持，本政策未能提供足够的指导性或直接利益点来满足这些需求。因此，推荐寻找更加针对性强、条件清晰的支持措施。"
+    }
+  ]
+}

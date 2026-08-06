@@ -1,0 +1,36 @@
+{
+  "enterprise": {
+    "name": "英睿红外",
+    "industry": "光电子",
+    "size": "中型",
+    "registered_capital": null,
+    "revenue": "5000",
+    "employee_count": null,
+    "rnd_ratio": "30%",
+    "patent_count": 12,
+    "needs": [],
+    "additional_info": {}
+  },
+  "generated_at": "2026-07-31T14:10:39.286210",
+  "ranked": [
+    {
+      "rank": 1,
+      "policy_title": "3eb40fcd",
+      "match_score": 0.0,
+      "priority_level": "",
+      "priority_reason": ""
+    }
+  ],
+  "matches": [
+    {
+      "policy_title": "3eb40fcd",
+      "policy_id": "",
+      "match_score": 0.0,
+      "priority_level": "",
+      "priority_reason": "",
+      "matched_criteria": [],
+      "unmatched_criteria": [],
+      "summary": "匹配分析出错: 模型 gpt4o-mini 调用失败: OpenAI API key is missing. Please provide it in the config or set the OPENAI_API_KEY environment variable."
+    }
+  ]
+}
